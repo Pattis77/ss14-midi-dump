@@ -1,2 +1,4 @@
 # midi-dump
- Random MIDIs off various sources compiled together..
+This collection includes both other people's and my own finds. Some tracks will be duplicates compared to others and other tracks are probably going to be brand new.
+They should all be sorted (somewhat) rationally, allowing for easy usage. If something is out of place, feel free to contact me or fix it yourself or something.
+Obviously, feel free to take from this collection and add it to your own, that's mostly what I did anyways.

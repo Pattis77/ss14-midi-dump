@@ -5,7 +5,7 @@ All tracks and folders should be sorted (somewhat) rationally, allowing for easy
 
 Obviously, feel free to take from this collection and add it to your own, that's mostly what I did anyways.
 
-But before you do, take a second to enjoy the prescence of this cat:
+But before you do, take a second to enjoy the presence of this cat:
 
 ## The Cat
 ![a cat that stares at u (by unknown) tp](https://github.com/user-attachments/assets/5135960b-ac01-4da1-8430-01a1da99340d)

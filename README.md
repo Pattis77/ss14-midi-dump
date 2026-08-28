@@ -1,7 +1,7 @@
 # ss14-midi-dump
 Midis I collected to play on Space Station 14, found from like a dozen different sources. (probably more to be honest.)
 
-"FOLDERED" sorts all files within their own folders and sub-folders (as they used to be). "UNFOLDERED" has all files in one folder (that you can easily copy-paste into your UserMidis folder).
+"FOLDERED" sorts all files within their own folders and sub-folders (as they used to be). "FOLDERLESS" has all files in one folder (that you can easily copy-paste into your UserMidis folder).
 
 All tracks and folders should be sorted (somewhat) rationally.
 
